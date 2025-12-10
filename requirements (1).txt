@@ -1,6 +1,5 @@
 streamlit
-google-generativeai
-python-docx
+google-generativeaipython-docx
 https://github.com/
 Pillow
 pandas
